@@ -8,10 +8,10 @@ namespace PIS_1
 {
     class NewClass
     {
-        public void Taim(string[] args)
+        /*public void Taim(string[] args)
         {
 
-        }
+        }*/
     }
 
 }
